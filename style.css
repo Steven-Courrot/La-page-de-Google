@@ -1,0 +1,30 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+.en-tete
+{
+    display: flex;
+    justify-content: right;
+}
+.logo
+{
+    max-height: 90%;
+    max-width: 50%;
+    width: 50%;
+    height: 90%;
+    ;
+}
+footer
+{
+    display:flex;
+    align-items: flex;
+    position: absolute;
+    bottom: 2%;
+}
+.bloc
+{
+    display: flex;
+    justify-content:;
+}
